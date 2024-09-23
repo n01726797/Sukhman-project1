@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+
+h1, h2 {
+    color: #00698f; /* Blue headings */
+}
+
+.intro {
+    background-image: linear-gradient(to bottom, #f7f7f7, #fff); /* Gradient background */
+}
+
+.interests {
+    background-image: linear-gradient(to bottom, #ffe6cc, #fff); /* Warm gradient */
+}
+
+.reflection {
+    background-image: linear-gradient(to bottom, #c9e4ca, #fff); /* Calming gradient */
+}
+
+.call-to-action {
+    background-image: linear-gradient(to bottom, #ffd7be, #fff); /* Vibrant gradient */
+}
+
+p {
+    color: #444; /* Dark gray text */
+    line-height: 1.5; /* Spacious text */
+}
