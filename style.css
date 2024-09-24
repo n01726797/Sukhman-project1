@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0; /* Light gray background */
+    background-color: #f89edc; /* Light pink background */
 }
 
 
 header {
-    background-color: #333; /* Dark gray header */
+    background-color: #f8f1f1; /* white header */
     color: #fff; /* White text */
     padding: 20px;
     text-align: center;
@@ -16,7 +16,7 @@ header {
 main {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left; /* change align-items center to left */
     padding: 20px;
 }
 
@@ -27,7 +27,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
 }
 h1, h2 {
-    color: #00698f; /* Blue headings */
+    color: #000000; /* black headings */
 }
 
 .intro {
