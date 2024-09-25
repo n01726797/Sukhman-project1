@@ -2,12 +2,11 @@ body {
     font-family: "Times New Roman", Times, serif;
     margin: 0;
     padding: 0;
-    background-color: #c5caf7; /* Light pink background */
 }
 
 
 header {
-    background-color: #dc1b1b; /* white header */
+    background-color: #fbecec; /* white header */
     color: #fff; /* White text */
     padding: 20px;
     text-align: center;
